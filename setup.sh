@@ -4,6 +4,9 @@
 
 #Clone o repositório para sua VM
 
+#Altere o seu_usuario na ultima linha 
+#Altere para o user da maquina, pois vai depender de cada cadete
+
 #Altere a permissão do Script com o comando abaixo
 #chmod 777 setup.sh
 
