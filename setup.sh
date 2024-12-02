@@ -1,5 +1,14 @@
 #!/bin/bash
 
+#Instale o git na sua VM (se já tiver feito, passe para o próximo passo)
+
+#Clone o repositório para sua VM
+
+#Altere a permissão do Script com o comando abaixo
+#chmod 777 setup.sh
+
+#Para rodar o Script basta digitar: ./setup.sh
+
 # Exibe o status do UFW
 echo "Verificando o status do firewall (UFW):"
 sudo ufw status
